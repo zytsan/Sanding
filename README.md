@@ -14,4 +14,4 @@ This is my first website project using HTML5, CSS and Javascript
 ## Reference
 - Petani Kode
 - Codepolitan
-- Micro Project in Youtube
+- Micro Project on Youtube
